@@ -1,0 +1,491 @@
+CRITICAL - 2026-10-06 15:48:48 --> ParseError: syntax error, unexpected token "return", expecting "function" or "const"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 196.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 15:48:50 --> ParseError: syntax error, unexpected token "return", expecting "function" or "const"
+[Method: GET, Route: students/view/8]
+in APPPATH\Controllers\Students.php on line 196.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students/view/8')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 15:48:51 --> ParseError: syntax error, unexpected token "return", expecting "function" or "const"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 196.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 15:48:51 --> ParseError: syntax error, unexpected token "return", expecting "function" or "const"
+[Method: GET, Route: students/create]
+in APPPATH\Controllers\Students.php on line 196.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students/create')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 15:49:59 --> ParseError: syntax error, unexpected token "return", expecting "function" or "const"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 196.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 15:50:51 --> ParseError: syntax error, unexpected token "return", expecting "function" or "const"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 196.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 15:50:54 --> ParseError: syntax error, unexpected token "return", expecting "function" or "const"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 196.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 15:57:24 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 197.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 15:57:26 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 197.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 15:59:26 --> ParseError: syntax error, unexpected token "`"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 207.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 15:59:29 --> ParseError: syntax error, unexpected token "`"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 207.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 15:59:42 --> ParseError: syntax error, unexpected token "`"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 207.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:01:58 --> ParseError: syntax error, unexpected token "`"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 207.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:02:03 --> ParseError: syntax error, unexpected token "`"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 207.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:04:47 --> ParseError: syntax error, unexpected token "`"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 207.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:13:55 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-10-06 16:13:55 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-10-06 16:13:56 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-10-06 16:18:15 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-10-06 16:29:26 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-10-06 16:31:44 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2026-10-06 16:53:56 --> Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('UPDATE `students` SET `admission_no` = \'STU-001\', `b_form_no` = \'\', `first_name` = \'Hashir\', `last_name` = \'Khan\', `gender` = \'Female\', `date_of_birth` = \'\', `guardian_name` = \'\', `guardian_phone` = \'\', `address` = \'\', `class_id` = \'4\', `section_id` = \'6\', `status` = \'Active\', `photo` = \'1791305636_bba06cf607bc9a8c397e.jpg\'
+WHERE `id` = \'10\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `students` SET `admission_no` = \'STU-001\', `b_form_no` = \'\', `first_name` = \'Hashir\', `last_name` = \'Khan\', `gender` = \'Female\', `date_of_birth` = \'\', `guardian_name` = \'\', `guardian_phone` = \'\', `address` = \'\', `class_id` = \'4\', `section_id` = \'6\', `status` = \'Active\', `photo` = \'1791305636_bba06cf607bc9a8c397e.jpg\'
+WHERE `id` = \'10\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `students` SET `admission_no` = \'STU-001\', `b_form_no` = \'\', `first_name` = \'Hashir\', `last_name` = \'Khan\', `gender` = \'Female\', `date_of_birth` = \'\', `guardian_name` = \'\', `guardian_phone` = \'\', `address` = \'\', `class_id` = \'4\', `section_id` = \'6\', `status` = \'Active\', `photo` = \'1791305636_bba06cf607bc9a8c397e.jpg\'
+WHERE `id` = \'10\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2531): CodeIgniter\Database\BaseConnection->query('UPDATE `students` SET `admission_no` = :admission_no:, `b_form_no` = :b_form_no:, `first_name` = :first_name:, `last_name` = :last_name:, `gender` = :gender:, `date_of_birth` = :date_of_birth:, `guardian_name` = :guardian_name:, `guardian_phone` = :guardian_phone:, `address` = :address:, `class_id` = :class_id:, `section_id` = :section_id:, `status` = :status:, `photo` = :photo:
+WHERE `id` = :id:', [...], false)
+ 5 APPPATH\Controllers\Students.php(176): CodeIgniter\Database\BaseBuilder->update([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->update('10')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:53:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-001' for key 'admission_no'
+[Method: POST, Route: students/update/10]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2531): CodeIgniter\Database\BaseConnection->query('UPDATE `students` SET `admission_no` = :admission_no:, `b_form_no` = :b_form_no:, `first_name` = :first_name:, `last_name` = :last_name:, `gender` = :gender:, `date_of_birth` = :date_of_birth:, `guardian_name` = :guardian_name:, `guardian_phone` = :guardian_phone:, `address` = :address:, `class_id` = :class_id:, `section_id` = :section_id:, `status` = :status:, `photo` = :photo:
+WHERE `id` = :id:', [...], false)
+ 2 APPPATH\Controllers\Students.php(176): CodeIgniter\Database\BaseBuilder->update([...])
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->update('10')
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:53:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `students` SET `admission_no` = \'STU-001\', `b_form_no` = \'\', `first_name` = \'Hashir\', `last_name` = \'Khan\', `gender` = \'Female\', `date_of_birth` = \'\', `guardian_name` = \'\', `guardian_phone` = \'\', `address` = \'\', `class_id` = \'4\', `section_id` = \'6\', `status` = \'Active\', `photo` = \'1791305636_bba06cf607bc9a8c397e.jpg\'
+WHERE `id` = \'10\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `students` SET `admission_no` = \'STU-001\', `b_form_no` = \'\', `first_name` = \'Hashir\', `last_name` = \'Khan\', `gender` = \'Female\', `date_of_birth` = \'\', `guardian_name` = \'\', `guardian_phone` = \'\', `address` = \'\', `class_id` = \'4\', `section_id` = \'6\', `status` = \'Active\', `photo` = \'1791305636_bba06cf607bc9a8c397e.jpg\'
+WHERE `id` = \'10\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2531): CodeIgniter\Database\BaseConnection->query('UPDATE `students` SET `admission_no` = :admission_no:, `b_form_no` = :b_form_no:, `first_name` = :first_name:, `last_name` = :last_name:, `gender` = :gender:, `date_of_birth` = :date_of_birth:, `guardian_name` = :guardian_name:, `guardian_phone` = :guardian_phone:, `address` = :address:, `class_id` = :class_id:, `section_id` = :section_id:, `status` = :status:, `photo` = :photo:
+WHERE `id` = :id:', [...], false)
+ 4 APPPATH\Controllers\Students.php(176): CodeIgniter\Database\BaseBuilder->update([...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->update('10')
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:53:56 --> [Caused by] mysqli_sql_exception: Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('UPDATE `students` SET `admission_no` = \'STU-001\', `b_form_no` = \'\', `first_name` = \'Hashir\', `last_name` = \'Khan\', `gender` = \'Female\', `date_of_birth` = \'\', `guardian_name` = \'\', `guardian_phone` = \'\', `address` = \'\', `class_id` = \'4\', `section_id` = \'6\', `status` = \'Active\', `photo` = \'1791305636_bba06cf607bc9a8c397e.jpg\'
+WHERE `id` = \'10\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `students` SET `admission_no` = \'STU-001\', `b_form_no` = \'\', `first_name` = \'Hashir\', `last_name` = \'Khan\', `gender` = \'Female\', `date_of_birth` = \'\', `guardian_name` = \'\', `guardian_phone` = \'\', `address` = \'\', `class_id` = \'4\', `section_id` = \'6\', `status` = \'Active\', `photo` = \'1791305636_bba06cf607bc9a8c397e.jpg\'
+WHERE `id` = \'10\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `students` SET `admission_no` = \'STU-001\', `b_form_no` = \'\', `first_name` = \'Hashir\', `last_name` = \'Khan\', `gender` = \'Female\', `date_of_birth` = \'\', `guardian_name` = \'\', `guardian_phone` = \'\', `address` = \'\', `class_id` = \'4\', `section_id` = \'6\', `status` = \'Active\', `photo` = \'1791305636_bba06cf607bc9a8c397e.jpg\'
+WHERE `id` = \'10\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2531): CodeIgniter\Database\BaseConnection->query('UPDATE `students` SET `admission_no` = :admission_no:, `b_form_no` = :b_form_no:, `first_name` = :first_name:, `last_name` = :last_name:, `gender` = :gender:, `date_of_birth` = :date_of_birth:, `guardian_name` = :guardian_name:, `guardian_phone` = :guardian_phone:, `address` = :address:, `class_id` = :class_id:, `section_id` = :section_id:, `status` = :status:, `photo` = :photo:
+WHERE `id` = :id:', [...], false)
+ 5 APPPATH\Controllers\Students.php(176): CodeIgniter\Database\BaseBuilder->update([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->update('10')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-10-06 16:54:42 --> Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'\', \'Hashir\', \'Khan\', \'Female\', \'\', \'\', \'\', \'\', \'\', \'6\', \'active\', \'1791305682_ca635f5740ec9ea759f8.jpg\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'\', \'Hashir\', \'Khan\', \'Female\', \'\', \'\', \'\', \'\', \'\', \'6\', \'active\', \'1791305682_ca635f5740ec9ea759f8.jpg\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'\', \'Hashir\', \'Khan\', \'Female\', \'\', \'\', \'\', \'\', \'\', \'6\', \'active\', \'1791305682_ca635f5740ec9ea759f8.jpg\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 5 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:54:42 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-001' for key 'admission_no'
+[Method: POST, Route: students/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 2 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:54:42 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'\', \'Hashir\', \'Khan\', \'Female\', \'\', \'\', \'\', \'\', \'\', \'6\', \'active\', \'1791305682_ca635f5740ec9ea759f8.jpg\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'\', \'Hashir\', \'Khan\', \'Female\', \'\', \'\', \'\', \'\', \'\', \'6\', \'active\', \'1791305682_ca635f5740ec9ea759f8.jpg\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 4 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:54:42 --> [Caused by] mysqli_sql_exception: Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'\', \'Hashir\', \'Khan\', \'Female\', \'\', \'\', \'\', \'\', \'\', \'6\', \'active\', \'1791305682_ca635f5740ec9ea759f8.jpg\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'\', \'Hashir\', \'Khan\', \'Female\', \'\', \'\', \'\', \'\', \'\', \'6\', \'active\', \'1791305682_ca635f5740ec9ea759f8.jpg\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'\', \'Hashir\', \'Khan\', \'Female\', \'\', \'\', \'\', \'\', \'\', \'6\', \'active\', \'1791305682_ca635f5740ec9ea759f8.jpg\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 5 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-10-06 16:57:18 --> Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791305838_e925becd918cfc0264db.jpg\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791305838_e925becd918cfc0264db.jpg\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791305838_e925becd918cfc0264db.jpg\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 5 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:57:18 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-001' for key 'admission_no'
+[Method: POST, Route: students/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 2 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:57:18 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791305838_e925becd918cfc0264db.jpg\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791305838_e925becd918cfc0264db.jpg\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 4 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 16:57:18 --> [Caused by] mysqli_sql_exception: Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791305838_e925becd918cfc0264db.jpg\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791305838_e925becd918cfc0264db.jpg\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791305838_e925becd918cfc0264db.jpg\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 5 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-10-06 17:11:58 --> Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791306718_99ebff6452922b978c97.jpg\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791306718_99ebff6452922b978c97.jpg\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791306718_99ebff6452922b978c97.jpg\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 5 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 17:11:58 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-001' for key 'admission_no'
+[Method: POST, Route: students/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 2 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 17:11:58 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791306718_99ebff6452922b978c97.jpg\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791306718_99ebff6452922b978c97.jpg\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 4 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 17:11:58 --> [Caused by] mysqli_sql_exception: Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791306718_99ebff6452922b978c97.jpg\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791306718_99ebff6452922b978c97.jpg\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'4\', \'6\', \'active\', \'1791306718_99ebff6452922b978c97.jpg\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 5 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-10-06 17:17:07 --> Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'\', \'\', \'active\', \'1791307027_693d8b436e3ffc6b6c6e.jpg\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'\', \'\', \'active\', \'1791307027_693d8b436e3ffc6b6c6e.jpg\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'\', \'\', \'active\', \'1791307027_693d8b436e3ffc6b6c6e.jpg\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 5 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 17:17:07 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-001' for key 'admission_no'
+[Method: POST, Route: students/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 2 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 17:17:07 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'\', \'\', \'active\', \'1791307027_693d8b436e3ffc6b6c6e.jpg\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'\', \'\', \'active\', \'1791307027_693d8b436e3ffc6b6c6e.jpg\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 4 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-06 17:17:07 --> [Caused by] mysqli_sql_exception: Duplicate entry 'STU-001' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'\', \'\', \'active\', \'1791307027_693d8b436e3ffc6b6c6e.jpg\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'\', \'\', \'active\', \'1791307027_693d8b436e3ffc6b6c6e.jpg\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (\'STU-001\', \'12345-1234567-1\', \'Hashir\', \'Khan\', \'Male\', \'\', \'\', \'\', \'\', \'\', \'\', \'active\', \'1791307027_693d8b436e3ffc6b6c6e.jpg\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `b_form_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`, `photo`) VALUES (:admission_no:, :b_form_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:, :photo:)', [...], false)
+ 5 APPPATH\Controllers\Students.php(63): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

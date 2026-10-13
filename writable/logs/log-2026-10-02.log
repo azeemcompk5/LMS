@@ -1,0 +1,161 @@
+CRITICAL - 2026-10-02 09:49:52 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 117.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-02 09:50:03 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 117.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-02 09:50:11 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 117.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-02 09:50:30 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 117.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-02 09:51:08 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 117.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-02 12:25:01 --> ParseError: syntax error, unexpected token "public", expecting ";" or "{"
+[Method: GET, Route: teachers]
+in APPPATH\Controllers\Teachers.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Teachers.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Teachers')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Teachers')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Teachers')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('teachers')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-02 12:25:19 --> ParseError: syntax error, unexpected token "public", expecting ";" or "{"
+[Method: GET, Route: teachers]
+in APPPATH\Controllers\Teachers.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Teachers.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Teachers')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Teachers')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Teachers')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('teachers')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-02 12:25:42 --> ParseError: syntax error, unexpected token "public", expecting ";" or "{"
+[Method: GET, Route: teachers]
+in APPPATH\Controllers\Teachers.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Teachers.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Teachers')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Teachers')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Teachers')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('teachers')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-10-02 16:57:11 --> Duplicate entry 'STU-002' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'bc230425675\', \'AMAN\', \'Female\', \'\', \'\', \'\', \'Kakshal Hameed Abad Road, Mohallah Ghulam Jelani, District PESHAWAR, City PESHAWAR, Province KHYBER PAKHTUNKHWA\', \'\', \'\', \'active\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'bc230425675\', \'AMAN\', \'Female\', \'\', \'\', \'\', \'Kakshal Hameed Abad Road, Mohallah Ghulam Jelani, District PESHAWAR, City PESHAWAR, Province KHYBER PAKHTUNKHWA\', \'\', \'\', \'active\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'bc230425675\', \'AMAN\', \'Female\', \'\', \'\', \'\', \'Kakshal Hameed Abad Road, Mohallah Ghulam Jelani, District PESHAWAR, City PESHAWAR, Province KHYBER PAKHTUNKHWA\', \'\', \'\', \'active\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (:admission_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:)', [...], false)
+ 5 APPPATH\Controllers\Students.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-02 16:57:12 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-002' for key 'admission_no'
+[Method: POST, Route: students/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (:admission_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:)', [...], false)
+ 2 APPPATH\Controllers\Students.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-02 16:57:12 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-002' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'bc230425675\', \'AMAN\', \'Female\', \'\', \'\', \'\', \'Kakshal Hameed Abad Road, Mohallah Ghulam Jelani, District PESHAWAR, City PESHAWAR, Province KHYBER PAKHTUNKHWA\', \'\', \'\', \'active\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'bc230425675\', \'AMAN\', \'Female\', \'\', \'\', \'\', \'Kakshal Hameed Abad Road, Mohallah Ghulam Jelani, District PESHAWAR, City PESHAWAR, Province KHYBER PAKHTUNKHWA\', \'\', \'\', \'active\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (:admission_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:)', [...], false)
+ 4 APPPATH\Controllers\Students.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-02 16:57:12 --> [Caused by] mysqli_sql_exception: Duplicate entry 'STU-002' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'bc230425675\', \'AMAN\', \'Female\', \'\', \'\', \'\', \'Kakshal Hameed Abad Road, Mohallah Ghulam Jelani, District PESHAWAR, City PESHAWAR, Province KHYBER PAKHTUNKHWA\', \'\', \'\', \'active\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'bc230425675\', \'AMAN\', \'Female\', \'\', \'\', \'\', \'Kakshal Hameed Abad Road, Mohallah Ghulam Jelani, District PESHAWAR, City PESHAWAR, Province KHYBER PAKHTUNKHWA\', \'\', \'\', \'active\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'bc230425675\', \'AMAN\', \'Female\', \'\', \'\', \'\', \'Kakshal Hameed Abad Road, Mohallah Ghulam Jelani, District PESHAWAR, City PESHAWAR, Province KHYBER PAKHTUNKHWA\', \'\', \'\', \'active\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (:admission_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:)', [...], false)
+ 5 APPPATH\Controllers\Students.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

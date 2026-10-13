@@ -1,0 +1,295 @@
+CRITICAL - 2026-10-01 09:19:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "students/index.php"
+[Method: GET, Route: students]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('students/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('students/index', [], true)
+ 3 APPPATH\Controllers\Students.php(16): view('students/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 09:24:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "students/index.php"
+[Method: GET, Route: students]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('students/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('students/index', [], true)
+ 3 APPPATH\Controllers\Students.php(16): view('students/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 09:25:44 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "students/index.php"
+[Method: GET, Route: students]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('students/index.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('students/index', [], true)
+ 3 APPPATH\Controllers\Students.php(16): view('students/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 11:52:44 --> ErrorException: Undefined variable $loop
+[Method: GET, Route: classes]
+in APPPATH\Views\classes\index.php on line 114.
+ 1 APPPATH\Views\classes\index.php(114): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loop', 'C:\\xampp\\htdocs\\LMS\\app\\Views\\classes\\index.php', 114)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\LMS\\app\\Views\\classes\\index.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('classes/index', [], true)
+ 5 APPPATH\Controllers\Classes.php(16): view('classes/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Classes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classes))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 11:56:03 --> ParseError: syntax error, unexpected token "endforeach", expecting end of file
+[Method: GET, Route: classes]
+in APPPATH\Views\classes\index.php on line 132.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('classes/index', [], true)
+ 3 APPPATH\Controllers\Classes.php(16): view('classes/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Classes->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classes))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 11:56:04 --> ParseError: syntax error, unexpected token "endforeach", expecting end of file
+[Method: GET, Route: classes]
+in APPPATH\Views\classes\index.php on line 132.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('classes/index', [], true)
+ 3 APPPATH\Controllers\Classes.php(16): view('classes/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Classes->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classes))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 11:56:04 --> ParseError: syntax error, unexpected token "endforeach", expecting end of file
+[Method: GET, Route: classes]
+in APPPATH\Views\classes\index.php on line 132.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('classes/index', [], true)
+ 3 APPPATH\Controllers\Classes.php(16): view('classes/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Classes->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classes))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 11:56:05 --> ParseError: syntax error, unexpected token "endforeach", expecting end of file
+[Method: GET, Route: classes]
+in APPPATH\Views\classes\index.php on line 132.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('classes/index', [], true)
+ 3 APPPATH\Controllers\Classes.php(16): view('classes/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Classes->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classes))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-10-01 13:23:18 --> Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (:name:, :phone:, :email:, :designation:, :status:)', [...], false)
+ 5 APPPATH\Controllers\Teachers.php(30): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Teachers->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Teachers))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 13:23:18 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'name' in 'field list'
+[Method: POST, Route: teachers/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (:name:, :phone:, :email:, :designation:, :status:)', [...], false)
+ 2 APPPATH\Controllers\Teachers.php(30): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Teachers->store()
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Teachers))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 13:23:18 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (:name:, :phone:, :email:, :designation:, :status:)', [...], false)
+ 4 APPPATH\Controllers\Teachers.php(30): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Teachers->store()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Teachers))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 13:23:18 --> [Caused by] mysqli_sql_exception: Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (:name:, :phone:, :email:, :designation:, :status:)', [...], false)
+ 5 APPPATH\Controllers\Teachers.php(30): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Teachers->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Teachers))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-10-01 13:23:24 --> Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (:name:, :phone:, :email:, :designation:, :status:)', [...], false)
+ 5 APPPATH\Controllers\Teachers.php(30): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Teachers->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Teachers))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 13:23:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'name' in 'field list'
+[Method: POST, Route: teachers/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (:name:, :phone:, :email:, :designation:, :status:)', [...], false)
+ 2 APPPATH\Controllers\Teachers.php(30): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Teachers->store()
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Teachers))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 13:23:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (:name:, :phone:, :email:, :designation:, :status:)', [...], false)
+ 4 APPPATH\Controllers\Teachers.php(30): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Teachers->store()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Teachers))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 13:23:24 --> [Caused by] mysqli_sql_exception: Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (\'Sara Khan\', \'0312155402\', \'sara@schoolsuite.com\', \'Teacher\', \'active\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `teachers` (`name`, `phone`, `email`, `designation`, `status`) VALUES (:name:, :phone:, :email:, :designation:, :status:)', [...], false)
+ 5 APPPATH\Controllers\Teachers.php(30): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Teachers->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Teachers))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-10-01 14:39:11 --> Duplicate entry 'STU-002' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'hashir\', \'khan\', \'Male\', \'2022-01-01\', \'ahsan\', \'qwe323232\', \'23223\', \'1\', \'3\', \'active\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'hashir\', \'khan\', \'Male\', \'2022-01-01\', \'ahsan\', \'qwe323232\', \'23223\', \'1\', \'3\', \'active\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'hashir\', \'khan\', \'Male\', \'2022-01-01\', \'ahsan\', \'qwe323232\', \'23223\', \'1\', \'3\', \'active\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (:admission_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:)', [...], false)
+ 5 APPPATH\Controllers\Students.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 14:39:11 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-002' for key 'admission_no'
+[Method: POST, Route: students/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (:admission_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:)', [...], false)
+ 2 APPPATH\Controllers\Students.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 14:39:11 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'STU-002' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'hashir\', \'khan\', \'Male\', \'2022-01-01\', \'ahsan\', \'qwe323232\', \'23223\', \'1\', \'3\', \'active\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'hashir\', \'khan\', \'Male\', \'2022-01-01\', \'ahsan\', \'qwe323232\', \'23223\', \'1\', \'3\', \'active\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (:admission_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:)', [...], false)
+ 4 APPPATH\Controllers\Students.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 14:39:11 --> [Caused by] mysqli_sql_exception: Duplicate entry 'STU-002' for key 'admission_no'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'hashir\', \'khan\', \'Male\', \'2022-01-01\', \'ahsan\', \'qwe323232\', \'23223\', \'1\', \'3\', \'active\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'hashir\', \'khan\', \'Male\', \'2022-01-01\', \'ahsan\', \'qwe323232\', \'23223\', \'1\', \'3\', \'active\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (\'STU-002\', \'hashir\', \'khan\', \'Male\', \'2022-01-01\', \'ahsan\', \'qwe323232\', \'23223\', \'1\', \'3\', \'active\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2355): CodeIgniter\Database\BaseConnection->query('INSERT INTO `students` (`admission_no`, `first_name`, `last_name`, `gender`, `date_of_birth`, `guardian_name`, `guardian_phone`, `address`, `class_id`, `section_id`, `status`) VALUES (:admission_no:, :first_name:, :last_name:, :gender:, :date_of_birth:, :guardian_name:, :guardian_phone:, :address:, :class_id:, :section_id:, :status:)', [...], false)
+ 5 APPPATH\Controllers\Students.php(48): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->store()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 17:42:40 --> ParseError: syntax error, unexpected token "public", expecting ";" or "{"
+[Method: GET, Route: students]
+in APPPATH\Controllers\Students.php on line 45.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(320): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\LMS\\app\\Controllers\\Students.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Students')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Students')
+ 4 SYSTEMPATH\Router\Router.php(790): class_exists('\\App\\Controllers\\Students')
+ 5 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->processRouteAttributes()
+ 6 SYSTEMPATH\CodeIgniter.php(852): CodeIgniter\Router\Router->handle('students')
+ 7 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 18:05:51 --> ParseError: syntax error, unexpected end of file
+[Method: GET, Route: students]
+in APPPATH\Views\students\index.php on line 203.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('students/index', [], true)
+ 3 APPPATH\Controllers\Students.php(19): view('students/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 18:10:17 --> ParseError: syntax error, unexpected end of file
+[Method: GET, Route: students]
+in APPPATH\Views\students\index.php on line 242.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('students/index', [], true)
+ 3 APPPATH\Controllers\Students.php(19): view('students/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-01 18:10:18 --> ParseError: syntax error, unexpected end of file
+[Method: GET, Route: students]
+in APPPATH\Views\students\index.php on line 242.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('students/index', [], true)
+ 3 APPPATH\Controllers\Students.php(19): view('students/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Students->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
