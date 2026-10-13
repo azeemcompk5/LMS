@@ -9,7 +9,7 @@
 # Env & secrets
 .env
 .env.*
-!en
+!env.example
 
 # Composer
 composer.phar
