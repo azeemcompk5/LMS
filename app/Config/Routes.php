@@ -85,6 +85,33 @@ $routes->group('', ['filter' => 'auth'], function ($routes) {
     $routes->post('/fees/delete/(:num)', 'Fees::delete/$1');
     $routes->get('/fees/receipt/(:num)', 'Fees::receipt/$1');
 
+    // Transport Management
+    $routes->get('/transport', 'Transport::index');
+
+    // Transport Drivers
+    $routes->get('/transport/drivers', 'Transport::drivers');
+    $routes->get('/transport/drivers/create', 'Transport::createDriver');
+    $routes->post('/transport/drivers/store', 'Transport::storeDriver');
+    $routes->get('/transport/drivers/edit/(:num)', 'Transport::editDriver/$1');
+    $routes->post('/transport/drivers/update/(:num)', 'Transport::updateDriver/$1');
+    $routes->post('/transport/drivers/delete/(:num)', 'Transport::deleteDriver/$1');
+
+    // Transport Vehicles
+    $routes->get('/transport/vehicles', 'Transport::vehicles');
+    $routes->get('/transport/vehicles/create', 'Transport::createVehicle');
+    $routes->post('/transport/vehicles/store', 'Transport::storeVehicle');
+    $routes->get('/transport/vehicles/edit/(:num)', 'Transport::editVehicle/$1');
+    $routes->post('/transport/vehicles/update/(:num)', 'Transport::updateVehicle/$1');
+    $routes->post('/transport/vehicles/delete/(:num)', 'Transport::deleteVehicle/$1');
+
+    // Transport Routes
+$routes->get('/transport/routes', 'Transport::routes');
+$routes->get('/transport/routes/create', 'Transport::createRoute');
+$routes->post('/transport/routes/store', 'Transport::storeRoute');
+$routes->get('/transport/routes/edit/(:num)', 'Transport::editRoute/$1');
+$routes->post('/transport/routes/update/(:num)', 'Transport::updateRoute/$1');
+$routes->post('/transport/routes/delete/(:num)', 'Transport::deleteRoute/$1');
+
     // Exams
     $routes->get('/exams', 'Exams::index');
     $routes->get('/exams/create', 'Exams::create');

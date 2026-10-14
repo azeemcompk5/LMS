@@ -346,6 +346,11 @@
                 <i class="fa-solid fa-money-bill-wave"></i>
                 <span>Fees & Payments</span>
             </a>
+            
+            <a href="<?= base_url('transport') ?>">
+    <i class="fa-solid fa-bus"></i>
+    <span>Transport Management</span>
+</a>
 
             <a href="<?= base_url('exams') ?>">
                 <i class="fa-solid fa-file-pen"></i>
