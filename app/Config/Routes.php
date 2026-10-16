@@ -105,12 +105,28 @@ $routes->group('', ['filter' => 'auth'], function ($routes) {
     $routes->post('/transport/vehicles/delete/(:num)', 'Transport::deleteVehicle/$1');
 
     // Transport Routes
-$routes->get('/transport/routes', 'Transport::routes');
-$routes->get('/transport/routes/create', 'Transport::createRoute');
-$routes->post('/transport/routes/store', 'Transport::storeRoute');
-$routes->get('/transport/routes/edit/(:num)', 'Transport::editRoute/$1');
-$routes->post('/transport/routes/update/(:num)', 'Transport::updateRoute/$1');
-$routes->post('/transport/routes/delete/(:num)', 'Transport::deleteRoute/$1');
+    $routes->get('/transport/routes', 'Transport::routes');
+    $routes->get('/transport/routes/create', 'Transport::createRoute');
+    $routes->post('/transport/routes/store', 'Transport::storeRoute');
+    $routes->get('/transport/routes/edit/(:num)', 'Transport::editRoute/$1');
+    $routes->post('/transport/routes/update/(:num)', 'Transport::updateRoute/$1');
+    $routes->post('/transport/routes/delete/(:num)', 'Transport::deleteRoute/$1');
+
+    // Transport Stops
+$routes->get('/transport/stops', 'Transport::stops');
+$routes->get('/transport/stops/create', 'Transport::createStop');
+$routes->post('/transport/stops/store', 'Transport::storeStop');
+$routes->get('/transport/stops/edit/(:num)', 'Transport::editStop/$1');
+$routes->post('/transport/stops/update/(:num)', 'Transport::updateStop/$1');
+$routes->post('/transport/stops/delete/(:num)', 'Transport::deleteStop/$1');
+
+// Student Transport Assignments
+$routes->get('/transport/assignments', 'Transport::assignments');
+$routes->get('/transport/assignments/create', 'Transport::createAssignment');
+$routes->post('/transport/assignments/store', 'Transport::storeAssignment');
+$routes->get('/transport/assignments/edit/(:num)', 'Transport::editAssignment/$1');
+$routes->post('/transport/assignments/update/(:num)', 'Transport::updateAssignment/$1');
+$routes->post('/transport/assignments/delete/(:num)', 'Transport::deleteAssignment/$1');
 
     // Exams
     $routes->get('/exams', 'Exams::index');

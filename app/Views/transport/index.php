@@ -395,6 +395,27 @@
             </div>
 
         </a>
+        <a href="<?= base_url('transport/stops') ?>"
+   class="transport-shortcut">
+    <div class="shortcut-icon">
+        <i class="fa-solid fa-location-dot"></i>
+    </div>
+    <div>
+        <strong>Pickup & Drop-off Stops</strong>
+        <span>Manage stop locations and timings</span>
+    </div>
+</a>
+
+<a href="<?= base_url('transport/assignments') ?>"
+   class="transport-shortcut">
+    <div class="shortcut-icon">
+        <i class="fa-solid fa-user-graduate"></i>
+    </div>
+    <div>
+        <strong>Student Assignments</strong>
+        <span>Manage student transport allocations</span>
+    </div>
+</a>
 
     </div>
 

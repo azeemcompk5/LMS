@@ -278,9 +278,9 @@
     </style>
 
     <link
-        rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
-    >
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+>
 </head>
 
 <body>
@@ -346,11 +346,11 @@
                 <i class="fa-solid fa-money-bill-wave"></i>
                 <span>Fees & Payments</span>
             </a>
-            
+
             <a href="<?= base_url('transport') ?>">
-    <i class="fa-solid fa-bus"></i>
-    <span>Transport Management</span>
-</a>
+                <i class="fa-solid fa-bus"></i>
+                <span>Transport Management</span>
+            </a>
 
             <a href="<?= base_url('exams') ?>">
                 <i class="fa-solid fa-file-pen"></i>
@@ -381,10 +381,7 @@
                 <span>Settings</span>
             </a>
 
-            <a
-                href="<?= base_url('logout') ?>"
-                class="logout-link"
-            >
+            <a href="<?= base_url('logout') ?>" class="logout-link">
                 <i class="fa-solid fa-right-from-bracket"></i>
                 <span>Logout</span>
             </a>
@@ -395,6 +392,26 @@
 
     <main class="main-content">
 
+        <?php if ($success = session()->getFlashdata('success')): ?>
+            <div
+                role="status"
+                style="padding:12px 16px; margin-bottom:20px; background:#ecfdf5; color:#065f46; border:1px solid #a7f3d0; border-radius:8px;"
+            >
+                <i class="fa-solid fa-circle-check"></i>
+                <?= esc($success) ?>
+            </div>
+        <?php endif; ?>
+
+        <?php if ($error = session()->getFlashdata('error')): ?>
+            <div
+                role="alert"
+                style="padding:12px 16px; margin-bottom:20px; background:#fef2f2; color:#991b1b; border:1px solid #fecaca; border-radius:8px;"
+            >
+                <i class="fa-solid fa-circle-exclamation"></i>
+                <?= esc($error) ?>
+            </div>
+        <?php endif; ?>
+
         <?= $this->renderSection('content') ?>
 
     </main>
@@ -403,4 +420,3 @@
 
 </body>
 </html>
-```
